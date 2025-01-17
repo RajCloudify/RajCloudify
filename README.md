@@ -8,6 +8,8 @@ My experiments and implementations with cloud platforms like AWS, OpenStack, and
 Hands-on projects demonstrating best practices in DevOps tools and pipelines. 🔧
 Code for solving real-world problems inspired by industry use cases. ⚙️
 Practice scripts and utilities for mastering Python, Linux, and SQL. 📜
+
+
 🎯 Goals:
 
 To build scalable, reliable, and cost-effective cloud solutions.
