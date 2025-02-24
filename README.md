@@ -4,7 +4,7 @@ This space is home to my repositories where I showcase projects and practice sol
 
 💡 What you’ll find here:
 
-My experiments and implementations with cloud platforms like AWS, OpenStack, and more. ☁️
+My experiments and implementations with cloud platforms like AWS, Azure, and more. ☁️
 Hands-on projects demonstrating best practices in DevOps tools and pipelines. 🔧
 Code for solving real-world problems inspired by industry use cases. ⚙️
 Practice scripts and utilities for mastering Python, Linux, and SQL. 📜
